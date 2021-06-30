@@ -9,3 +9,4 @@ rapidKey: https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/
 token: https://discord.com/developers/applications
 
 discord doc: https://docs.stillu.cc/guides/introduction/intro.html
+
